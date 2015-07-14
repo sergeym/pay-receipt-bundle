@@ -1,0 +1,3 @@
+payum_receipt_homepage:
+    path:     /receipt/{receipt_form_name}
+    defaults: { _controller: SergeymReceiptBundle:Default:index, receipt_form_name: 'pd4' }

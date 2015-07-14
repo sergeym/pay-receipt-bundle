@@ -1,0 +1,8 @@
+sergeym_reciept:
+    form:
+        payer_name: Плательщик
+        post_code: Почтовый индекс
+        post_address: Почтовый адрес
+        update: Обновить
+        print: Печать
+
